@@ -22,7 +22,7 @@
 7. :question: Результаты "национального проекта «Экология»"
 
 
-#### Публикации по экологической обстановке
+### Публикации по экологической обстановке
 
 **2021**
 - https://udm-info.ru/article/general/12-10-2021/udmurtiya-v-chisle-samyh-gryaznyh-i-opasnyh-regionov
