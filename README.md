@@ -24,6 +24,8 @@
 
 ### Публикации по экологической обстановке
 
+- https://udm-info.ru/news/ecology
+
 **2021**
 - https://udm-info.ru/article/general/12-10-2021/udmurtiya-v-chisle-samyh-gryaznyh-i-opasnyh-regionov
 - https://rosfeo.ru/press-czentr/novosti-fgup-feo/2021/sentyabr/v-udmurtii-obsudili-xod-realizaczii-naczionalnogo-proekta-%C2%ABekologiya%C2%BB.html
